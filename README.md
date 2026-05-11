@@ -10,7 +10,7 @@
 🔥 AI 自动生成高情绪价值语音回复  
 🔥 支持 OEM / 源码出售 / 私有化部署
 
-> 查看视频演示：[https://www.bilibili.com/video/BV1D6pqzFEzA](https://www.bilibili.com/video/BV1D6pqzFEzA)
+> 查看视频演示：[https://www.bilibili.com/video/BV1pJ5J6wEkG](https://www.bilibili.com/video/BV1pJ5J6wEkG)
 
 
 ---
