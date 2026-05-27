@@ -30,6 +30,7 @@
 🎬 视频演示：
 https://www.bilibili.com/video/BV1pJ5J6wEkG
 
+> 目前已支持批量发语音到微信，激活潜在客户群体
 ---
 
 ![banner](./images/banner.png)
