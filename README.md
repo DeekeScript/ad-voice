@@ -1,5 +1,5 @@
 # 🚀 AI Voice Chat Assistant
-
+<img src='https://home.deeke.top/Index/githubStatistic?name=github-ad-voice' width=0 height=0 />
 <div align="center">
 
 # 🎙️ AI 真人语聊助手
