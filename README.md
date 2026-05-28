@@ -2,7 +2,7 @@
 <img src='https://home.deeke.top/Index/githubStatistic?name=github-ad-voice' width=0 height=0 />
 <div align="center">
 
-# 🎙️ 微信AI真人语聊助手
+# 🎙️ 微信AI语音助手
 
 ### AI Voice Agent · AI Social Assistant · Mobile AI Agent
 
@@ -14,13 +14,13 @@
 
 🔥 AI 自动生成高情商回复
 🔥 10 秒真人声音克隆
-🔥 微信 / QQ / 抖音 / TikTok 自动语音发送
+🔥 微信语音 / QQ语音 / 抖音语音 / TikTok 自动语音发送
 🔥 私域销售 / AI陪聊 / TikTok 出海
 🔥 支持 OEM / 私有化部署 / 源码出售
 
 ---
 
-### 🧠 AI 不只是聊天
+### 🧠 AI 不只是微信语音聊天、抖音语音聊天等
 
 ### 而是真正进入“社交关系链”
 
@@ -57,32 +57,12 @@ AI Voice Chat Assistant 是一个：
 
 实现：
 
-✅ AI 自动聊天
+✅ AI 自动批量发送微信语音消息
 ✅ AI 自动生成真人语音
 ✅ AI 自动发送社交语音消息
 ✅ AI 私域销售
 ✅ AI 陪聊互动
 ✅ AI 社交运营
-
----
-
-# 🔥 GitHub Keywords
-
-```text
-AI Agent
-Voice Agent
-AI Voice Assistant
-AI Voice Clone
-Android Automation
-Mobile AI Agent
-TikTok Automation
-Douyin Automation
-Social AI
-AI Chat Assistant
-AI Sales Assistant
-Voice Chat AI
-AI Social Assistant
-```
 
 ---
 
