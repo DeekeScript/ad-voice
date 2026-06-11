@@ -1,8 +1,8 @@
-# 🚀 Wechat AI Voice Chat Assistant
+# 🚀 语聊助手
 <img src='https://home.deeke.top/Index/githubStatistic?name=github-ad-voice' width=0 height=0 />
 <div align="center">
 
-# 🎙️ 微信AI语音助手
+# 🎙️ 微信AI语音助手/抖音语音获客助手
 
 ### AI Voice Agent · AI Social Assistant · Mobile AI Agent
 
@@ -14,8 +14,8 @@
 
 🔥 AI 自动生成高情商回复
 🔥 10 秒真人声音克隆
-🔥 微信语音 / QQ语音 / 抖音语音 / TikTok 自动语音发送
-🔥 私域销售 / AI陪聊 / TikTok 出海
+🔥 微信语音获客 / QQ语音获客 / 抖音语音获客 / TikTok语音获客
+🔥 私域销售 / AI陪聊 / TikTok出海
 🔥 支持 OEM / 私有化部署 / 源码出售
 
 ---
@@ -25,7 +25,7 @@
 ### 而是真正进入“社交关系链”
 
 > 传统 AI 只能回复文字
-> 而 AI Voice Chat Assistant 让 AI 更像真人。
+> 而 语聊助手 让 AI 更像真人。
 
 ---
 
@@ -43,9 +43,9 @@ https://www.bilibili.com/video/BV1pJ5J6wEkG
 
 # ✨ 项目简介
 
-AI Voice Chat Assistant 是一个：
+语聊助手 是一个：
 
-# 🎙️ AI 语音社交助手系统
+# 🎙️ AI 语音获客系统
 
 结合：
 
