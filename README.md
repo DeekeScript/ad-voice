@@ -35,7 +35,7 @@ https://www.bilibili.com/video/BV1pJ5J6wEkG
 > 目前已支持批量发语音到微信，激活潜在客户群体
 ---
 
-![banner](./images/banner.png)
+![banner](./images/banner.webp)
 
 </div>
 
@@ -152,22 +152,22 @@ AI 自动生成：
 # 📸 App 截图
 
 <div style="justify-content: space-between;flex-wrap:wrap;width:100%;">
-<img alt="语聊助手登录页面" src="images/0.jpg" width="24%">
-<img alt="语聊助手主界面" src="images/1.jpg" width="24%">
-<img alt="语聊助手语音库" src="images/2.jpg" width="24%">
-<img alt="语聊助手设置页" src="images/3.jpg" width="24%">
+<img alt="语聊助手登录页面" src="images/0.webp" width="24%">
+<img alt="语聊助手主界面" src="images/1.webp" width="24%">
+<img alt="语聊助手语音库" src="images/2.webp" width="24%">
+<img alt="语聊助手设置页" src="images/3.webp" width="24%">
 
-<img alt="语聊助手弹窗" src="images/4.jpg" width="24%">
-<img alt="语聊助手生成回复" src="images/5.jpg" width="24%">
-<img alt="语聊助手语音页面" src="images/6.jpg" width="24%">
-<img alt="语聊助手支付页面" src="images/7.jpg" width="24%">
+<img alt="语聊助手弹窗" src="images/4.webp" width="24%">
+<img alt="语聊助手生成回复" src="images/5.webp" width="24%">
+<img alt="语聊助手语音页面" src="images/6.webp" width="24%">
+<img alt="语聊助手支付页面" src="images/7.webp" width="24%">
 </div>
 
 ---
 
 # 🖥️ 后台截图
 
-![后台管理](./images/backend.png)
+![后台管理](./images/backend.webp)
 
 ---
 
@@ -347,7 +347,7 @@ AI 自动生成：
 # 📬 联系方式
 
 <div align="center">
-<img src='./images/weixin.png' width="260">
+<img src='./images/weixin.webp' width="260">
 </div>
 
 ---
