@@ -6,7 +6,6 @@
 
 ### AI Voice Agent · AI Social Assistant · Mobile AI Agent
 
-> 官网地址：<a href='https://aiutter.cn'>https://aiutter.cn</a>
 
 让 AI 使用真人声音替你聊天、成交、维护客户关系。
 
